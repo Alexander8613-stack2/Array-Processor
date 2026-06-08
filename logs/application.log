@@ -1,0 +1,49 @@
+2026-06-08 19:50:59.746 [main] INFO  by.kotsuba.arrayprocessor.Main - Started
+2026-06-08 19:50:59.757 [main] INFO  by.kotsuba.arrayprocessor.Main - Array processed: 4,5,6,7
+2026-06-08 19:50:59.757 [main] INFO  by.kotsuba.arrayprocessor.Main - Min = OptionalInt[4]
+2026-06-08 19:50:59.757 [main] INFO  by.kotsuba.arrayprocessor.Main - Max = OptionalInt[7] 
+2026-06-08 19:50:59.757 [main] WARN  by.kotsuba.arrayprocessor.Main - Invalid line skipped: 4 5 6 7
+2026-06-08 19:50:59.757 [main] WARN  by.kotsuba.arrayprocessor.Main - Invalid line skipped: 4^ 5^ 6$ 7*
+2026-06-08 19:50:59.758 [main] INFO  by.kotsuba.arrayprocessor.Main - Application finished
+2026-06-08 19:54:14.736 [main] INFO  by.kotsuba.arrayprocessor.Main - Started
+2026-06-08 19:54:14.745 [main] INFO  by.kotsuba.arrayprocessor.Main - Read 3 lines from file
+2026-06-08 19:54:14.746 [main] INFO  by.kotsuba.arrayprocessor.Main - Processing: 4,5,6,7
+2026-06-08 19:54:14.746 [main] INFO  by.kotsuba.arrayprocessor.Main -   Original array: [4, 5, 6, 7]
+2026-06-08 19:54:14.747 [main] INFO  by.kotsuba.arrayprocessor.Main -   Min: 4
+2026-06-08 19:54:14.747 [main] INFO  by.kotsuba.arrayprocessor.Main -   Max: 7
+2026-06-08 19:54:14.748 [main] INFO  by.kotsuba.arrayprocessor.Main -   Sum: 22
+2026-06-08 19:54:14.750 [main] INFO  by.kotsuba.arrayprocessor.Main -   Average: 5.5
+2026-06-08 19:54:14.750 [main] INFO  by.kotsuba.arrayprocessor.Main -   Bubble sort result: [4, 5, 6, 7]
+2026-06-08 19:54:14.750 [main] INFO  by.kotsuba.arrayprocessor.Main -   Insertion sort result: [4, 5, 6, 7]
+2026-06-08 19:54:14.750 [main] INFO  by.kotsuba.arrayprocessor.Main - ---
+2026-06-08 19:54:14.750 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4 5 6 7 - Invalid array data 4 5 6 7
+2026-06-08 19:54:14.750 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4^ 5^ 6$ 7* - Invalid array data 4^ 5^ 6$ 7*
+2026-06-08 19:54:14.750 [main] INFO  by.kotsuba.arrayprocessor.Main - === Array Processor Finished ===
+2026-06-08 19:55:27.339 [main] INFO  by.kotsuba.arrayprocessor.Main - Started
+2026-06-08 19:55:27.350 [main] INFO  by.kotsuba.arrayprocessor.Main - Read 3 lines from file
+2026-06-08 19:55:27.351 [main] INFO  by.kotsuba.arrayprocessor.Main - Processing: 4,5,6,7
+2026-06-08 19:55:27.351 [main] INFO  by.kotsuba.arrayprocessor.Main -   Original array: [4, 5, 6, 7]
+2026-06-08 19:55:27.352 [main] INFO  by.kotsuba.arrayprocessor.Main -   Min: 4
+2026-06-08 19:55:27.352 [main] INFO  by.kotsuba.arrayprocessor.Main -   Max: 7
+2026-06-08 19:55:27.353 [main] INFO  by.kotsuba.arrayprocessor.Main -   Sum: 22
+2026-06-08 19:55:27.353 [main] INFO  by.kotsuba.arrayprocessor.Main -   Average: 5.5
+2026-06-08 19:55:27.353 [main] INFO  by.kotsuba.arrayprocessor.Main -   Bubble sort result: [4, 5, 6, 7]
+2026-06-08 19:55:27.353 [main] INFO  by.kotsuba.arrayprocessor.Main -   Insertion sort result: [4, 5, 6, 7]
+2026-06-08 19:55:27.354 [main] INFO  by.kotsuba.arrayprocessor.Main - ---
+2026-06-08 19:55:27.354 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4 5 6 7 - Invalid array data 4 5 6 7
+2026-06-08 19:55:27.354 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4^ 5^ 6$ 7* - Invalid array data 4^ 5^ 6$ 7*
+2026-06-08 19:55:27.354 [main] INFO  by.kotsuba.arrayprocessor.Main - === Array Processor Finished ===
+2026-06-08 19:55:50.186 [main] INFO  by.kotsuba.arrayprocessor.Main - Started
+2026-06-08 19:55:50.196 [main] INFO  by.kotsuba.arrayprocessor.Main - Read 3 lines from file
+2026-06-08 19:55:50.197 [main] INFO  by.kotsuba.arrayprocessor.Main - Processing: 4,5,6,7
+2026-06-08 19:55:50.197 [main] INFO  by.kotsuba.arrayprocessor.Main -   Original array: [4, 5, 6, 7]
+2026-06-08 19:55:50.198 [main] INFO  by.kotsuba.arrayprocessor.Main -   Min: 4
+2026-06-08 19:55:50.198 [main] INFO  by.kotsuba.arrayprocessor.Main -   Max: 7
+2026-06-08 19:55:50.198 [main] INFO  by.kotsuba.arrayprocessor.Main -   Sum: 22
+2026-06-08 19:55:50.199 [main] INFO  by.kotsuba.arrayprocessor.Main -   Average: 5.5
+2026-06-08 19:55:50.199 [main] INFO  by.kotsuba.arrayprocessor.Main -   Bubble sort result: [4, 5, 6, 7]
+2026-06-08 19:55:50.199 [main] INFO  by.kotsuba.arrayprocessor.Main -   Insertion sort result: [4, 5, 6, 7]
+2026-06-08 19:55:50.199 [main] INFO  by.kotsuba.arrayprocessor.Main - ---
+2026-06-08 19:55:50.199 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4 5 6 7 - Invalid array data 4 5 6 7
+2026-06-08 19:55:50.200 [main] WARN  by.kotsuba.arrayprocessor.Main - Skipping invalid line: 4^ 5^ 6$ 7* - Invalid array data 4^ 5^ 6$ 7*
+2026-06-08 19:55:50.200 [main] INFO  by.kotsuba.arrayprocessor.Main - Finished
